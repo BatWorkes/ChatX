@@ -7,7 +7,9 @@ set "sharedFile=\\server\share\Messages.txt"
 :MessageLoop
 cls
 echo ---------------------------------------
-echo Welcome to Shared Message System
+echo Welcome to ChatX by BatWorkes (Sam)
+--------------------------------------------
+echo Github release V2
 echo ---------------------------------------
 echo.
 echo Enter your message (Type 'exit' to quit):
